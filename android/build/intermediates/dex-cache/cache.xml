@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/pinaka/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="090803e9eb6588971f788c5a5790be117fc836eb">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/pinaka-react-native-maps-unspecified_4b6f335e35a370f2f12231dd11ff352060df5949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_7531b295fb922e37ce2a9579ae4d6b8ae6564a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_68fc777650144d8d5e645dbffddeef6d95d40be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_3e89cb974fd2c93856ad4430933d1d8b1dc8c55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_75aea5e34f72d7c1e5c3a1ef4bc1bc886ab8582d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8e9475c367178615daaa89edf6c455765a78874b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/pinaka/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/pinaka-react-native-vector-icons-unspecified_e15e148b978f0763007441a603fa4771c00bb97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_222005b237723ce4e93421cf263d912b8b134bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a656dc38bf2078a60227116faa9ae0cd249292c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4e5fffccc7d3513ceeb61f76f7463690bdd91cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_104a10424915864df43f196b50cbfefba595c52f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e0e410a99f6bff854b97ef0ddc3bb2776e0d7f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6724a9ce18ba2582f34d806edf327758048b747a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_906c5379d8c714b93b5bcfaf2b0bfd2c9342ebd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_cbe3ff535d49553d26f490428bfe859ece231144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ee9c6fd556e8d1647f00a2f25211dc2059e9f5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0ad2d34afa0a9a75f53b7a02eeafa5531a841395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_036c3d69d0f347dd7ba93afbef8b010fc1e1f1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_52aa16e0fe64803326d6e5938873d2575dedf4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_59f052114708134dd37608c4ba63d089d67ecedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6bc187b48549dabe24d35598d6a9561ed29d5075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_11ed226ee58cddaf2cc59d34550fa670e08595d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_814f7ba8479189d194a74562fa19d690c33b5830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_0c31714ba52115427d0c71ce97cf21c2eb7a0f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e8a0bba5956fe52b5777af67185fe5a872916c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_92a3495bbd54fad3c0292fc9f75776df77cb2507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/macos/Documents/ReactNativeWorkspace/pinaka-history/pinaka-android-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e225c59da30b50f5979d85fdc668d7c945ed8049.jar" />
+    </item>
+
+</items>
